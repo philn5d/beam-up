@@ -1,0 +1,11 @@
+send side
+  -> scan particles
+  -> prepare for lossless transmission
+  -> transmit
+  -> wait for confirmation
+  
+recieve side
+  -> recieve transmission
+  -> check integrity
+  -> reply confirmation
+  -> reconstitute matter
